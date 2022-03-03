@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github User Account</string>
+    <string name="github_user">Github User</string>
+    <string name="astro_test">Astro Test</string>
+    <string name="search">Search</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>
